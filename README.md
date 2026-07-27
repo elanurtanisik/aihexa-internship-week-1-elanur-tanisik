@@ -1,8 +1,8 @@
-# AIHEXA Yazılım Mühendisliği Stajı - 1. Hafta Raporu 🚀
+# AIHEXA Yazılım Mühendisliği Stajı - 1. Hafta Raporu 
 
 Bu depo (repository), AIHEXA'daki stajımın ilk haftası boyunca edindiğim teorik bilgileri, yaptığım araştırmaları ve sistem mimarisi analizlerini içermektedir. İlk hafta, yazılım geliştirme yaşam döngüsünü (SDLC) ve kurumsal çalışma standartlarını kavramak üzerine yoğunlaşmıştır.
 
-## 📚 Hafta Boyunca Araştırılan ve Tamamlanan Konular
+##  Hafta Boyunca Araştırılan ve Tamamlanan Konular
 
 ### 1. Geliştirme Ortamı ve Versiyon Kontrolü
 * **Git / GitHub:** Versiyon kontrol sistemlerinin temelleri ve işleyişi.
